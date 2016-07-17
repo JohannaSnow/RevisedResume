@@ -22,6 +22,10 @@ div {
 	color: #ffffff;
 }
 
+#objective{
+	border-radius: 15px;
+}
+
 
 #email{
 	float:right;
